@@ -1,2 +1,2 @@
 # IdentityCardNumberGenerator
-身份证号码生成器
+生成符合校验规则的身份证号码
